@@ -1,0 +1,99 @@
+*{
+	font-family: 'Lato', sans-serif;
+	margin: 0
+}
+
+.page-header{
+	text-align: right;
+	padding: 3em;
+	background: rgb(248, 141, 105);
+	color: white;
+	margin-top: 0;
+	margin-bottom: -1px;
+}
+
+.primeraimagen{
+	background-image: url("../images/uno.jpg");
+	background-size: cover;
+	height: auto;
+	padding: 21em;
+	border-bottom: 1em solid rgb(241, 144, 101);
+}
+
+.container-fluid{
+	background: rgb(171, 225, 137);
+	border-top: 1em solid rgb(241, 144, 101);
+	border-bottom: 2em solid rgb(241, 144, 101);
+	padding: 13em;
+}
+
+.lead{
+	/*border: solid;*/
+	background: rgb(248, 141, 105);
+	height: 20em;
+	width: 30em;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.segundaimagen{
+	background-image: url("../images/dos.jpg");
+	background-size: cover;
+	padding-top: 49em;
+	border-bottom: 1em solid rgb(241, 144, 101);
+}
+
+.container-fluid2{
+	background: rgb(171, 225, 137);
+	border-top: 1em solid rgb(241, 144, 101);
+	border-bottom: 2em solid rgb(241, 144, 101);
+	text-align: center;
+	padding: 10em;
+	color: white;
+	font-weight: bold;
+}
+
+#images{
+	display: inline-block;
+
+}
+
+#images img{
+	border: 0.5em solid white;
+	margin-left: 3%;
+
+}
+
+.terceraimagen{
+	background-image: url("../images/tres.jpg");
+	background-size: cover;
+	/*height: auto;*/
+	padding-top: 48em;
+	/*border-bottom: 1em solid rgb(241, 144, 101);*/
+}
+
+
+
+
+
+
+.footer1 {
+    
+	/*padding-top: 0px;
+	padding-right: 0;
+	padding-bottom: 0px;
+	padding-left: 0;*/
+}
+
+
+
+.footer-bottom {
+    background-color: rgb(241, 144, 101);
+    width: 100%;
+    color: white;
+    text-align: right;
+    height: 2em;
+    padding: 2em;
+}
